@@ -1,0 +1,15 @@
+Smashy Road Instructions
+
+This is basically just a car game. 
+You drive the car using the arrow keys. 
+The car automatically accelerates forward so you just use left to turn left, right to turn right, and back to go backward. 
+Cop cars will chase after you and the longer you survive, the higher your score. 
+You can also get a higher score by destroying the cops which can be done by crashing into them. 
+If you crash with cops, you lose HP too and once you deplete your HP, the game ends. 
+The red bar in the top left is your HP
+the score is in the top right
+
+This game does have a bug where occasionally, you will see cars clipping into each other. 
+If it doesn't automatically fix itself after you try moving around a bit, just restart the game
+Also, I did not have enough time to create a map with boundaries so I just brute forced a very large playing area made up of green squares.
+So you are able to exit the playing area if you keep going in the same direction 
